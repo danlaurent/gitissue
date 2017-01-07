@@ -1,0 +1,25 @@
+.logo {
+  text-align: center;
+}
+.logo > i {
+  font-size: 10em;
+}
+.user {
+  text-align: center;
+}
+.titulo {
+  font-size: 2em;
+  font-weight: bold;
+}
+h2 {
+  font-size: 2em;
+  font-weight: bold;
+}
+ul {
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
